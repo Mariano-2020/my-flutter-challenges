@@ -12,8 +12,7 @@ Leave a ⭐ if you find this repo awesome 😊
 |[Flutter Desktop Media Player](flutter_desktop_media_player)|[Facebook Desktop](facebook_desktop)|
 |:-:|:-:|
 |![Flutter Desktop Media Player](flutter_desktop_media_player/screenshots/screenshot.gif)|![Facebook Desktop](facebook_desktop/screenshots/screenshot.gif)|
-|[Preview on Twitter](https://twitter.com/iam_e200/status/1277334514092605440)|[Preview on Twitter](https://twitter.com/iam_e200/status/1276417956638003200)|
-|[Preview on LinkedIn](https://www.linkedin.com/feed/update/urn:li:activity:6682540431596654592/)|[Preview on LinkedIn](https://www.linkedin.com/feed/update/urn:li:activity:6683107918067335168/)|
+|[Preview on Twitter](https://twitter.com/iam_e200/status/1277334514092605440)<br>[Preview on LinkedIn](https://www.linkedin.com/feed/update/urn:li:activity:6682540431596654592/)|[Preview on Twitter](https://twitter.com/iam_e200/status/1276417956638003200)<br>[Preview on LinkedIn](https://www.linkedin.com/feed/update/urn:li:activity:6683107918067335168/)|
 
 |[Canvas Clock](clock)|[Infinite Scroll](infinite_scroll)|[Infinite Scroll](infinite_scroll)|
 |:-:|:-:|:-:|
