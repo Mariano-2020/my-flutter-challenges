@@ -12,6 +12,7 @@ Leave a ⭐ if you find this repo awesome 😊
 |[Flutter Desktop Media Player](flutter_desktop_media_player)|[Facebook Desktop](facebook_desktop)|
 |:-:|:-:|
 |![Flutter Desktop Media Player](flutter_desktop_media_player/screenshots/screenshot.gif)|![Facebook Desktop](facebook_desktop/screenshots/screenshot.gif)|
+|[Preview](https://twitter.com/iam_e200/status/1277334514092605440)|[Preview](https://twitter.com/iam_e200/status/1276417956638003200)|
 
 |[Canvas Clock](clock)|[Infinite Scroll](infinite_scroll)|[Infinite Scroll](infinite_scroll)|
 |:-:|:-:|:-:|
